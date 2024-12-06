@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi 👋
 
-- 🔭 I'm currently working on my Node.js Chat-Server and [Requests for Multiplayer Piano](https://multiplayerpiano.net/?c=The%20Request%20Line%20%E2%98%8E%EF%B8%8F)
-- 📫 Don't hesitate to contact me via Discord (@slowstone72) or e-mail (cf.fisher.bham@gmail.com)
+### 🔭 What I'm Working On:
+- Node.js Chat-Server
+- [Requests for Multiplayer Piano](https://multiplayerpiano.net/?c=The%20Request%20Line%20%E2%98%8E%EF%B8%8F)
+
+### 📫 Contact
+- Discord: @slowstone72
+- E-mail: cf.fisher.bham@gmail.com
 
 <!--
 **slowstone72/slowstone72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
