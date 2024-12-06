@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I'm currently working on my Node.js Chat-Server and Requests for Multiplayer Piano ([https://multiplayerpiano.net/](https://multiplayerpiano.net/?c=The%20Request%20Line%20%E2%98%8E%EF%B8%8F))
+- 🔭 I'm currently working on my Node.js Chat-Server and [Requests for Multiplayer Piano](https://multiplayerpiano.net/?c=The%20Request%20Line%20%E2%98%8E%EF%B8%8F)
 - 📫 Don't hesitate to contact me via Discord (@slowstone72) or e-mail (cf.fisher.bham@gmail.com)
 
 <!--
