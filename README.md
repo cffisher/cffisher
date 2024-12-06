@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I'm currently working on my Node.js Chat-Server and Requests for Multiplayer Piano.
+- 📫 Don't hesitate to contact me via Discord (@slowstone72) or e-mail (cf.fisher.bham@gmail.com)
+
 <!--
 **slowstone72/slowstone72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
