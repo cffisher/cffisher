@@ -1,7 +1,7 @@
 ## Hi 👋
 I'm a hobbyist programmer who has been working with JavaScript since 2015, starting at age 9. I love getting involved in music-centric projects.
 
-### 🔭 What I'm Working On:
+### 🔭 What I'm Working On
 - [Chat-Server](https://github.com/slowstone72/Chat-Server) - An experimental Node.js chat server created to explore real-time communication possibilities and unique features.
 - [Requests for Multiplayer Piano](https://multiplayerpiano.net/?c=The%20Request%20Line%20%E2%98%8E%EF%B8%8F) - A jukebox-like piano bot that lets users play from, upload to and search through a collection of MIDI files.
 
