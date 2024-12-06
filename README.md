@@ -1,8 +1,8 @@
 ## Hi 👋
 
 ### 🔭 What I'm Working On:
-- Node.js Chat-Server
-- [Requests for Multiplayer Piano](https://multiplayerpiano.net/?c=The%20Request%20Line%20%E2%98%8E%EF%B8%8F)
+- A [Node.js Chat-Server](https://github.com/slowstone72/Chat-Server)
+- [Requests for Multiplayer Piano](https://multiplayerpiano.net/?c=The%20Request%20Line%20%E2%98%8E%EF%B8%8F) - A jukebox-like piano bot that plays uploaded MIDI files.
 
 ### 📫 Contact
 - Discord: @slowstone72
