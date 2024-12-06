@@ -1,5 +1,5 @@
 ## Hi 👋
-I'm a hobbyist programmer who has been working with JavaScript since 2015, starting at age 9. I love getting involved in music-centric projects.
+I'm a hobbyist programmer who has been working with JavaScript since 2015, starting at age 9. I love exploring in music-centric projects.
 
 ### 🔭 What I'm Working On
 - [Chat-Server](https://github.com/slowstone72/Chat-Server) - An experimental Node.js chat server created to explore real-time communication possibilities and unique features.
