@@ -9,6 +9,8 @@ I'm a hobbyist coder who has been working with JavaScript since 2015, starting a
 - Discord: @slowstone72
 - E-mail: cf.fisher.bham@gmail.com
 
+Visit my Pastebin Junkyard for other projects: https://pastebin.com/u/Slowstone72
+
 <!--
 **slowstone72/slowstone72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
