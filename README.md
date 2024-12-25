@@ -10,11 +10,14 @@ I'm a hobbyist coder who has been working with JavaScript since 2015, starting a
 
 - Crystal FM for Discord - A radio-like music bot for voice channels.
 
+- NMPB++ for Multiplayer Piano - A Node.js program that splits Ste-Art's MIDI player bot (NMPB) into multiple bots to bypass the note limit.
+
+You can find other projects on my [Pastebin page](https://pastebin.com/u/Slowstone72)
+
+
 ### 📫 Contact
 - Discord: @slowstone72
 - E-mail: cf.fisher.bham@gmail.com
-
-Visit my Pastebin Junkyard for other projects: https://pastebin.com/u/Slowstone72
 
 <!--
 **slowstone72/slowstone72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
