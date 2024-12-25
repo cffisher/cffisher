@@ -8,6 +8,8 @@ I'm a hobbyist coder who has been working with JavaScript since 2015, starting a
 ### 🏛️ What I've Worked On
 - [EpicOS for Multiplayer Piano](https://pastebin.com/QGyDuUGe) - A multi-purpose command-based bot.
 
+- Crystal FM for Discord - A radio-like music bot for voice channels.
+
 ### 📫 Contact
 - Discord: @slowstone72
 - E-mail: cf.fisher.bham@gmail.com
