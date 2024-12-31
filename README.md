@@ -12,7 +12,7 @@ I'm a hobbyist coder who has been working with JavaScript since 2015, starting a
 
 - NMPB++ for Multiplayer Piano - A Node.js program that splits Ste-Art's MIDI player bot (NMPB) into multiple bots to bypass the note limit.
 
-You can find other projects on my [Pastebin page](https://pastebin.com/u/Slowstone72)
+You can unearth other ancient code on my [Pastebin page](https://pastebin.com/u/Slowstone72).
 
 
 ### 📫 Contact
