@@ -10,7 +10,7 @@ I'm a hobbyist coder who has been working with JavaScript since 2015, starting a
 
 - Crystal FM for Discord - A radio-like music bot for voice channels.
 
-- NMPB++ for Multiplayer Piano - A Node.js MIDI player inspired by Ste-Art's MIDI player bot (NMPB).
+- [NMPB++ for Multiplayer Piano](https://github.com/slowstone72/EpicOS/tree/main/extras/2018-nmpb-plus-plus) - A Node.js MIDI player inspired by Ste-Art's MIDI player bot (NMPB).
 
 You can unearth other ancient code on my [Gist page](https://gist.github.com/slowstone72).
 
