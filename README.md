@@ -16,7 +16,7 @@ You can unearth other ancient code on my [Gist page](https://gist.github.com/slo
 
 
 ### 📫 Contact
-- Discord: @slowstone72
+- Discord: @cffisher
 - E-mail: cf.fisher.bham@gmail.com
 
 <!--
