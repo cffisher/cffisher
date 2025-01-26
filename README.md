@@ -8,7 +8,7 @@ I'm a hobbyist coder who has been working with JavaScript since 2015, starting a
 ### 🏛️ What I've Worked On
 - [EpicOS for Multiplayer Piano](https://github.com/cffisher/EpicOS) - A multi-purpose command-based bot.
 
-- Crystal FM for Discord - A radio-like music bot for voice channels.
+- [Crystal FM for Discord](https://cffisher.github.io/t/20220412-crystal-fm/index.html) - A radio-like music bot for voice channels.
 
 - [NMPB++ for Multiplayer Piano](https://cffisher.github.io/t/20250123-nmpb-plus-plus/index.html) - A Node.js MIDI player inspired by Ste-Art's MIDI player bot (NMPB).
 
